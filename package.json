@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/IgorBaranovDev/natours#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "morgan": "^1.10.0"
   }
 }
