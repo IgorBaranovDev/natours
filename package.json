@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/IgorBaranovDev/4-natours#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
     "mongoose": "^5.13.22",
@@ -27,6 +28,7 @@
     "validator": "^13.11.0"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
     "cross-env": "^7.0.3",
     "eslint": "^8.56.0",
     "eslint-config-airbnb": "^19.0.4",
